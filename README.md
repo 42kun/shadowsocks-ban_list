@@ -38,3 +38,5 @@ ssserver -c /etc/shadowsocks/shadowsocks.json -b /etc/shadowsocks/ban_list -d st
 tail -f /var/log/shadowsocks.log
 ~~~
 
+![](https://raw.githubusercontent.com/42kun/shadowsocks-ban_list/master/img/ban-img.PNG)
+
